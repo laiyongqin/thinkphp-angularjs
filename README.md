@@ -1,1 +1,3 @@
-# thinkphp-angularjs
+thinkphp-angularjs demo
+
+tp框架和angular整合到一起，里面包含分页功能，完成前后端的分开协作
